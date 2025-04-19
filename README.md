@@ -30,7 +30,3 @@ The system is organized into three main stages. Execute the scripts in the follo
    - `[2]sorted_metrics_curves_2.py`
    - `[2]sorted_metrics_curves_3.py`
 
-## Notes
-
-- Make sure to install the necessary dependencies before running the scripts.
-- If you use this code, please cite the original paper. (Add citation info or DOI if available.)
